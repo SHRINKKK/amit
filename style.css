@@ -1,0 +1,159 @@
+body{
+padding-left: 0px;
+text-align: center;
+
+}
+h2{
+color: #79bac1;
+}
+h3{
+color:#feb72b ;
+}
+.font{
+  padding-top: 300px;
+}
+p{
+
+  color: #feb72b;
+}
+.row{
+  position: relative;
+height: 80px;
+width: :30px;
+background-color: #7f78d2;
+}
+.logo{
+  position: absolute;
+  left: 10px;
+}
+.row-top{
+  text-decoration:none;
+  color: white;
+  font-size:22px;
+  padding: 10px;
+  margin-bottom: 0px;
+  position: absolute;
+  left: 740px;
+  margin-top: 25px;
+
+
+
+}
+.row-top1{
+  text-decoration:none;
+  color: white;
+  font-size:22px;
+  padding: 10px;
+  position: absolute;
+  left: 850px;
+  margin-top: 25px;
+  margin-bottom: 0px;
+
+
+}
+.row-top2{
+  text-decoration:none;
+  color: white;
+  font-size:22px;
+  padding: 10px;
+  position: absolute;
+  left: 1020px;
+  margin-top: 25px;
+    margin-bottom: 0px;
+
+
+
+}
+.row-top3{
+  text-decoration:none;
+  color: white;
+  font-size:22px;
+  padding: 10px;
+  position: absolute;
+  left: 1150px;
+  margin-top: 25px;
+    margin-bottom: 0px;
+
+
+
+}
+
+.top{
+  background-attachment: fixed;
+background-image: url("back.png");
+height: 580px;
+position: relative;
+padding-top: 0px;
+
+
+}
+
+.mam{
+position: absolute;
+left: 0px;
+padding-top:5px;
+
+}
+.amit-img{
+
+  position: absolute;
+  right: 30px;
+  padding-top:5px;
+
+
+}
+.intro-mam{
+  position: absolute;
+  top:200px;
+  left: 7px;
+  right: 1190px;
+
+color: #537ec5;
+}
+.intro-me{
+  position: absolute;
+  right: 2px;
+  left: 1140px;
+  top:200px;
+color: #537ec5;
+}
+.middle-container {
+  background-color: #edf4f2;
+  position: relative;
+  padding-top: 0px;
+margin: 100px auto;
+}
+;
+}
+
+}
+.bottom-container{
+  background-color: #edf4f2;
+
+}
+hr{
+  margin-top: 50px;
+  margin-bottom: 50px;
+border: dotted 10px;
+border-bottom: none;
+width: 100px;
+border-color: #7f78d2;
+
+}
+.contact-me{
+
+  margin: 100px auto 100px auto;
+}
+
+.btn{
+text-decoration: none;
+color: #7f78d2;
+
+
+}
+.footer-link{
+margin-left: 100px;
+text-decoration: none;
+color: #7f78d2;
+
+}
