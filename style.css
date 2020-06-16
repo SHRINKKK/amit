@@ -1,4 +1,5 @@
 body{
+  width:1300px;
 padding-left: 0px;
 text-align: center;
 
@@ -111,7 +112,7 @@ padding-top:5px;
 color: #537ec5;
 }
 .intro-me{
-  position: absolute;
+  position: relative;
   right: 20px;
   left: 1100px;
   top:200px;
