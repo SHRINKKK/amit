@@ -1,0 +1,52 @@
+#title{
+background-color: #f40552;
+height: 900px;
+}
+body{
+
+  width: 1335px;
+}
+h1{
+font-family:"Montserrat-thin";
+}
+#features {
+background-color: #a3de83;
+height: 600px;
+}
+#testimonials{
+background-color: #f6f6f6;
+
+}
+#press
+{
+
+  background-color: #ecf4f3;
+}
+#pricing{
+
+ background-color:  #eef9bf;
+}
+#cta
+{
+background-color: #c2dbc1;
+}
+#footer{
+
+  background-color: #75daad;
+}
+#features{
+text-align: center;
+}
+#testimonials{
+  text-align: center;
+}
+#pricing{
+  text-align: center;
+}
+#cta{
+  text-align: center;
+}
+#footer{
+  text-align: center;
+  shape-outside: circle();
+}
